@@ -1,0 +1,35 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~47.0.14",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.8",
+    "firebase": "7.9.0",
+    "expo-font": "~11.0.1",
+    "@firebase/app": "0.x.0",
+    "expo-permissions": "~14.0.0",
+    "react-navigation": "*",
+    "@expo/vector-icons": "^13.0.0",
+    "@firebase/firestore": "*",
+    "expo-barcode-scanner": "~12.1.0",
+    "react-native-screens": "~3.18.0",
+    "react-native-elements": "^3.4.0",
+    "@react-navigation/native": "^5.9.4",
+    "react-native-vector-icons": "*",
+    "@expo-google-fonts/rajdhani": "^0.1.0",
+    "react-native-gesture-handler": "~2.8.0",
+    "@react-navigation/bottom-tabs": "^5.11.10",
+    "react-native-safe-area-context": "4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
